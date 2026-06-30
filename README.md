@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/logo.png" alt="OpsTwin AI Logo" width="120" />
+  <img src="public/logo.png" alt="OpsTwin AI Logo" width="120" />
   <br />
   
   <h1>OpsTwin AI</h1>
@@ -36,7 +36,7 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/banner.png" alt="OpsTwin AI Hero Banner" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);" />
+  <img src="public/banner.png" alt="OpsTwin AI Hero Banner" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);" />
 </div>
 
 <br />
