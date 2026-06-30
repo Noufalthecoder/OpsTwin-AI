@@ -78,7 +78,7 @@ No platform exists that gives a unified, real-time, AI-driven map of an organiza
 </div>
 
 <p align="center">
-  <a href="https://demo.opstwin.ai">
+  <a href="https://opstwinai-lemma.base44.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://docs.opstwin.ai">
@@ -389,7 +389,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <strong>OpsTwin AI</strong> — The Intelligence Engine for the Modern Enterprise.
   </p>
   <p>
-    <a href="https://opstwin.ai">Website</a> •
+    <a href="https://opstwinai-lemma.base44.app" target="_blank">Website</a> •
     <a href="https://docs.opstwin.ai">Documentation</a> •
     <a href="https://twitter.com/OpsTwinAI">Twitter</a> •
     <a href="https://discord.gg/opstwin">Discord</a>
