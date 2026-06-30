@@ -81,9 +81,6 @@ No platform exists that gives a unified, real-time, AI-driven map of an organiza
   <a href="https://opstwinai-lemma.base44.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://docs.opstwin.ai">
-    <img src="https://img.shields.io/badge/Documentation-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation" />
-  </a>
   <a href="https://youtu.be/D7bQFbPqhH0?si=DTcVfX5ZcuvfgUXj" target="_blank">
     <img src="https://img.shields.io/badge/Watch_Video-EF4444?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
   </a>
