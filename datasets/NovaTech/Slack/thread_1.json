@@ -1,0 +1,16 @@
+{
+  "channel": "#hr",
+  "thread_id": "thread_1",
+  "messages": [
+    {
+      "user": "Alice Johnson",
+      "timestamp": "2026-06-09T03:47:34Z",
+      "text": "Hey all, regarding Onboarding Delay for Ivy Chen (NOV-1042), any updates?"
+    },
+    {
+      "user": "Bob Smith",
+      "timestamp": "2026-06-24T12:40:34Z",
+      "text": "I'm working on NOV-1042 now. The onboarding is proving tricky."
+    }
+  ]
+}

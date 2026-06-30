@@ -1,0 +1,13 @@
+From: Eve Carter <eve.c@novatech.com>
+To: Charlie Davis <charlie.d@novatech.com>
+Date: 2026-06-13T19:22:34Z
+Subject: URGENT: Security Vulnerability in Auth Module - NOV-1045
+
+Hi Charlie,
+
+We are facing issues with Security Vulnerability in Auth Module. 
+I've tracked this in Jira under NOV-1045. 
+We also discussed this in Slack recently. Please review the SOPs if needed.
+
+Thanks,
+Eve Carter

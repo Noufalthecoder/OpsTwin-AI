@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1118",
+  "title": "Update API for Performance",
+  "type": "Task",
+  "priority": "Medium",
+  "status": "In Review",
+  "assignee": "Alice Johnson",
+  "reporter": "Frank Miller",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 5,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-08T06:28:34Z",
+  "comments": []
+}

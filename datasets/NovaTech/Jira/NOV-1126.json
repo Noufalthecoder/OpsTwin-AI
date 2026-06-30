@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1126",
+  "title": "Update Docs for Client A",
+  "type": "Story",
+  "priority": "Low",
+  "status": "In Review",
+  "assignee": "Grace Lee",
+  "reporter": "Ivy Chen",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 2,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-21T07:32:34Z",
+  "comments": []
+}

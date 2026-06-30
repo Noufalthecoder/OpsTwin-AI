@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1140",
+  "title": "Update Docs for Security",
+  "type": "Bug",
+  "priority": "Medium",
+  "status": "Done",
+  "assignee": "Bob Smith",
+  "reporter": "Henry Ford",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 8,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-20T04:36:34Z",
+  "comments": []
+}

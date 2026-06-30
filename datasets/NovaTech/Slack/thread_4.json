@@ -1,0 +1,16 @@
+{
+  "channel": "#finance",
+  "thread_id": "thread_4",
+  "messages": [
+    {
+      "user": "Grace Lee",
+      "timestamp": "2026-06-21T07:49:34Z",
+      "text": "Hey all, regarding Database Outage during Peak Hours (NOV-1088), any updates?"
+    },
+    {
+      "user": "David Wilson",
+      "timestamp": "2026-06-25T00:14:34Z",
+      "text": "I'm working on NOV-1088 now. The outage is proving tricky."
+    }
+  ]
+}

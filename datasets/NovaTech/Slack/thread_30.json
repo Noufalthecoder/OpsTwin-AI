@@ -1,0 +1,16 @@
+{
+  "channel": "#security",
+  "thread_id": "thread_30",
+  "messages": [
+    {
+      "user": "Bob Smith",
+      "timestamp": "2026-06-14T20:55:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1119."
+    },
+    {
+      "user": "David Wilson",
+      "timestamp": "2026-06-20T02:14:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

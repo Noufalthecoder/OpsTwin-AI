@@ -1,0 +1,16 @@
+{
+  "channel": "#engineering",
+  "thread_id": "thread_21",
+  "messages": [
+    {
+      "user": "Alice Johnson",
+      "timestamp": "2026-06-27T08:26:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1137."
+    },
+    {
+      "user": "Ivy Chen",
+      "timestamp": "2026-06-14T15:30:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1127",
+  "title": "Update UI for Security",
+  "type": "Bug",
+  "priority": "Critical",
+  "status": "In Progress",
+  "assignee": "Alice Johnson",
+  "reporter": "Henry Ford",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 3,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-14T02:32:34Z",
+  "comments": []
+}

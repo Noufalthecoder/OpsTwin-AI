@@ -1,0 +1,28 @@
+{
+  "issue_id": "NOV-1088",
+  "title": "Database Outage during Peak Hours",
+  "type": "Bug",
+  "priority": "Critical",
+  "status": "In Progress",
+  "assignee": "Grace Lee",
+  "reporter": "David Wilson",
+  "description": "Primary database went down, causing downtime for clients.",
+  "story_points": 2,
+  "labels": [
+    "outage",
+    "database",
+    "downtime",
+    "escalation"
+  ],
+  "created_at": "2026-06-24T11:12:34Z",
+  "comments": [
+    {
+      "author": "David Wilson",
+      "body": "We need to get this sorted ASAP. Let's discuss in the sync."
+    },
+    {
+      "author": "Grace Lee",
+      "body": "Looking into this now. Will update Slack."
+    }
+  ]
+}

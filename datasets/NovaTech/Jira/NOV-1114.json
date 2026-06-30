@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1114",
+  "title": "Update UI for Client A",
+  "type": "Story",
+  "priority": "High",
+  "status": "In Review",
+  "assignee": "Bob Smith",
+  "reporter": "Henry Ford",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 1,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-25T05:32:34Z",
+  "comments": []
+}

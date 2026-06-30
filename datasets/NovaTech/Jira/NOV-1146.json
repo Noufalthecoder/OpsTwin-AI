@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1146",
+  "title": "Update Database for Q3",
+  "type": "Bug",
+  "priority": "Medium",
+  "status": "In Review",
+  "assignee": "Grace Lee",
+  "reporter": "Charlie Davis",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 2,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-05T15:25:34Z",
+  "comments": []
+}

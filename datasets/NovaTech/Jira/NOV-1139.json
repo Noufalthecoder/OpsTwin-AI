@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1139",
+  "title": "Update Config for Client A",
+  "type": "Epic",
+  "priority": "Low",
+  "status": "In Review",
+  "assignee": "Charlie Davis",
+  "reporter": "Alice Johnson",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 8,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-05T04:00:34Z",
+  "comments": []
+}

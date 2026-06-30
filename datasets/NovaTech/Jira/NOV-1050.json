@@ -1,0 +1,28 @@
+{
+  "issue_id": "NOV-1050",
+  "title": "Q3 Cloud Budget Overrun",
+  "type": "Task",
+  "priority": "Medium",
+  "status": "In Progress",
+  "assignee": "Frank Miller",
+  "reporter": "Grace Lee",
+  "description": "AWS costs spiked unexpectedly due to rogue instances.",
+  "story_points": 8,
+  "labels": [
+    "budget",
+    "AWS",
+    "cost",
+    "overrun"
+  ],
+  "created_at": "2026-06-18T17:29:34Z",
+  "comments": [
+    {
+      "author": "Grace Lee",
+      "body": "We need to get this sorted ASAP. Let's discuss in the sync."
+    },
+    {
+      "author": "Frank Miller",
+      "body": "Looking into this now. Will update Slack."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+From: David Wilson <david.w@novatech.com>
+To: Charlie Davis <charlie.d@novatech.com>
+Date: 2026-06-22T15:10:34Z
+Subject: URGENT: Frontend Performance Degradation - NOV-1102
+
+Hi Charlie,
+
+We are facing issues with Frontend Performance Degradation. 
+I've tracked this in Jira under NOV-1102. 
+We also discussed this in Slack recently. Please review the SOPs if needed.
+
+Thanks,
+David Wilson

@@ -1,0 +1,16 @@
+{
+  "channel": "#security",
+  "thread_id": "thread_12",
+  "messages": [
+    {
+      "user": "Ivy Chen",
+      "timestamp": "2026-06-15T20:06:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1145."
+    },
+    {
+      "user": "Frank Miller",
+      "timestamp": "2026-06-16T23:08:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": "#finance",
+  "thread_id": "thread_5",
+  "messages": [
+    {
+      "user": "David Wilson",
+      "timestamp": "2026-06-09T15:43:34Z",
+      "text": "Hey all, regarding Frontend Performance Degradation (NOV-1102), any updates?"
+    },
+    {
+      "user": "Charlie Davis",
+      "timestamp": "2026-05-31T17:14:34Z",
+      "text": "I'm working on NOV-1102 now. The performance is proving tricky."
+    }
+  ]
+}

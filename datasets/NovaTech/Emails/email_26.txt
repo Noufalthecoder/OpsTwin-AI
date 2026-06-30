@@ -1,0 +1,12 @@
+From: Alice Johnson <alice.j@novatech.com>
+To: Bob Smith <bob.s@novatech.com>
+Date: 2026-05-30T13:53:34Z
+Subject: Regarding Security incidents
+
+Hi Bob,
+
+Just reaching out regarding the recent Security incidents. 
+Can you please provide an update by EOD?
+
+Thanks,
+Alice Johnson

@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1117",
+  "title": "Update UI for Q3",
+  "type": "Bug",
+  "priority": "Critical",
+  "status": "Done",
+  "assignee": "Ivy Chen",
+  "reporter": "Henry Ford",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 2,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-29T11:38:34Z",
+  "comments": []
+}

@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1110",
+  "title": "Update UI for Security",
+  "type": "Task",
+  "priority": "Critical",
+  "status": "Done",
+  "assignee": "Charlie Davis",
+  "reporter": "Grace Lee",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 5,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-11T22:38:34Z",
+  "comments": []
+}

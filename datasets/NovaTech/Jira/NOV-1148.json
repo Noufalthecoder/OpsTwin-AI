@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1148",
+  "title": "Update API for Client A",
+  "type": "Epic",
+  "priority": "Low",
+  "status": "In Progress",
+  "assignee": "Henry Ford",
+  "reporter": "Bob Smith",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 3,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-08T13:22:34Z",
+  "comments": []
+}

@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1115",
+  "title": "Update Database for Security",
+  "type": "Epic",
+  "priority": "Critical",
+  "status": "In Progress",
+  "assignee": "David Wilson",
+  "reporter": "Alice Johnson",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 2,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-27T16:57:34Z",
+  "comments": []
+}

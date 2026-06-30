@@ -1,0 +1,13 @@
+From: Alice Johnson <alice.j@novatech.com>
+To: Ivy Chen <ivy.c@novatech.com>
+Date: 2026-05-31T04:51:34Z
+Subject: URGENT: Onboarding Delay for Ivy Chen - NOV-1042
+
+Hi Ivy,
+
+We are facing issues with Onboarding Delay for Ivy Chen. 
+I've tracked this in Jira under NOV-1042. 
+We also discussed this in Slack recently. Please review the SOPs if needed.
+
+Thanks,
+Alice Johnson

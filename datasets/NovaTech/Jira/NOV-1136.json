@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1136",
+  "title": "Update Docs for Client A",
+  "type": "Story",
+  "priority": "High",
+  "status": "To Do",
+  "assignee": "Bob Smith",
+  "reporter": "Henry Ford",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 13,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-02T18:33:34Z",
+  "comments": []
+}

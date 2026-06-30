@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1132",
+  "title": "Update API for Performance",
+  "type": "Bug",
+  "priority": "Low",
+  "status": "In Review",
+  "assignee": "Alice Johnson",
+  "reporter": "Eve Carter",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 1,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-08T19:09:34Z",
+  "comments": []
+}

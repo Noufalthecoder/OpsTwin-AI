@@ -1,0 +1,16 @@
+{
+  "channel": "#security",
+  "thread_id": "thread_2",
+  "messages": [
+    {
+      "user": "Eve Carter",
+      "timestamp": "2026-06-12T13:28:34Z",
+      "text": "Hey all, regarding Security Vulnerability in Auth Module (NOV-1045), any updates?"
+    },
+    {
+      "user": "David Wilson",
+      "timestamp": "2026-06-26T03:31:34Z",
+      "text": "I'm working on NOV-1045 now. The security is proving tricky."
+    }
+  ]
+}

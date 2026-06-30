@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1150",
+  "title": "Update UI for Client A",
+  "type": "Improvement",
+  "priority": "Critical",
+  "status": "Done",
+  "assignee": "Henry Ford",
+  "reporter": "Eve Carter",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 3,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-19T15:45:34Z",
+  "comments": []
+}

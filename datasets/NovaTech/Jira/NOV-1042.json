@@ -1,0 +1,28 @@
+{
+  "issue_id": "NOV-1042",
+  "title": "Onboarding Delay for Ivy Chen",
+  "type": "Task",
+  "priority": "Medium",
+  "status": "To Do",
+  "assignee": "Alice Johnson",
+  "reporter": "Bob Smith",
+  "description": "Ivy's laptop is delayed, and she can't access GitHub.",
+  "story_points": 2,
+  "labels": [
+    "onboarding",
+    "laptop",
+    "access",
+    "delayed"
+  ],
+  "created_at": "2026-06-04T06:26:34Z",
+  "comments": [
+    {
+      "author": "Bob Smith",
+      "body": "We need to get this sorted ASAP. Let's discuss in the sync."
+    },
+    {
+      "author": "Alice Johnson",
+      "body": "Looking into this now. Will update Slack."
+    }
+  ]
+}

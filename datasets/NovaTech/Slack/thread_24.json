@@ -1,0 +1,16 @@
+{
+  "channel": "#operations",
+  "thread_id": "thread_24",
+  "messages": [
+    {
+      "user": "Grace Lee",
+      "timestamp": "2026-06-22T22:00:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1124."
+    },
+    {
+      "user": "Eve Carter",
+      "timestamp": "2026-05-31T11:58:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

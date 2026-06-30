@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1138",
+  "title": "Update Docs for Security",
+  "type": "Improvement",
+  "priority": "Low",
+  "status": "Done",
+  "assignee": "Alice Johnson",
+  "reporter": "Bob Smith",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 5,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-28T00:58:34Z",
+  "comments": []
+}

@@ -1,0 +1,16 @@
+{
+  "channel": "#finance",
+  "thread_id": "thread_3",
+  "messages": [
+    {
+      "user": "Frank Miller",
+      "timestamp": "2026-06-23T01:12:34Z",
+      "text": "Hey all, regarding Q3 Cloud Budget Overrun (NOV-1050), any updates?"
+    },
+    {
+      "user": "Grace Lee",
+      "timestamp": "2026-06-05T07:41:34Z",
+      "text": "I'm working on NOV-1050 now. The budget is proving tricky."
+    }
+  ]
+}

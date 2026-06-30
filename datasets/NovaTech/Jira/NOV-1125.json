@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1125",
+  "title": "Update API for Q3",
+  "type": "Epic",
+  "priority": "Critical",
+  "status": "Done",
+  "assignee": "Frank Miller",
+  "reporter": "David Wilson",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 8,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-22T00:09:34Z",
+  "comments": []
+}

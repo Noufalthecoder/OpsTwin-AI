@@ -1,0 +1,16 @@
+{
+  "channel": "#finance",
+  "thread_id": "thread_25",
+  "messages": [
+    {
+      "user": "Charlie Davis",
+      "timestamp": "2026-06-02T15:43:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1129."
+    },
+    {
+      "user": "Charlie Davis",
+      "timestamp": "2026-06-27T04:18:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

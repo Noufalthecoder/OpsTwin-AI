@@ -1,0 +1,28 @@
+{
+  "issue_id": "NOV-1102",
+  "title": "Frontend Performance Degradation",
+  "type": "Task",
+  "priority": "Medium",
+  "status": "To Do",
+  "assignee": "David Wilson",
+  "reporter": "Charlie Davis",
+  "description": "New release caused a 30% drop in page load speed.",
+  "story_points": 3,
+  "labels": [
+    "performance",
+    "frontend",
+    "lag",
+    "speed"
+  ],
+  "created_at": "2026-06-29T05:15:34Z",
+  "comments": [
+    {
+      "author": "Charlie Davis",
+      "body": "We need to get this sorted ASAP. Let's discuss in the sync."
+    },
+    {
+      "author": "David Wilson",
+      "body": "Looking into this now. Will update Slack."
+    }
+  ]
+}

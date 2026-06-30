@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1111",
+  "title": "Update UI for Security",
+  "type": "Bug",
+  "priority": "Medium",
+  "status": "To Do",
+  "assignee": "Eve Carter",
+  "reporter": "Bob Smith",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 13,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-30T01:21:34Z",
+  "comments": []
+}

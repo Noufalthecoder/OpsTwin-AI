@@ -1,0 +1,16 @@
+{
+  "channel": "#hr",
+  "thread_id": "thread_32",
+  "messages": [
+    {
+      "user": "David Wilson",
+      "timestamp": "2026-06-29T01:11:34Z",
+      "text": "Can someone review my PR? It's related to NOV-1130."
+    },
+    {
+      "user": "Frank Miller",
+      "timestamp": "2026-06-27T20:00:34Z",
+      "text": "Sure, I'll take a look in 10 mins."
+    }
+  ]
+}

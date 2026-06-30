@@ -22,6 +22,30 @@ Thumbs.db
 .pytest_cache/
 
 # Build
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+.next/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Build
 dist/
 build/
 
@@ -30,3 +54,5 @@ build/
 
 # Environment
 .env.local
+backend/uploads/
+backend/backend/uploads/

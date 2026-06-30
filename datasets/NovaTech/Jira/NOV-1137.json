@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1137",
+  "title": "Update Docs for Performance",
+  "type": "Improvement",
+  "priority": "Medium",
+  "status": "Done",
+  "assignee": "Ivy Chen",
+  "reporter": "Charlie Davis",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 3,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-05-30T12:23:34Z",
+  "comments": []
+}

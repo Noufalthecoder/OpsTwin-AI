@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1129",
+  "title": "Update Docs for Client A",
+  "type": "Bug",
+  "priority": "Low",
+  "status": "To Do",
+  "assignee": "Henry Ford",
+  "reporter": "Eve Carter",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 5,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-27T05:07:34Z",
+  "comments": []
+}

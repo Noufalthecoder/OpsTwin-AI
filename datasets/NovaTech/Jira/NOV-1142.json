@@ -1,0 +1,17 @@
+{
+  "issue_id": "NOV-1142",
+  "title": "Update Docs for Q3",
+  "type": "Task",
+  "priority": "High",
+  "status": "In Progress",
+  "assignee": "Eve Carter",
+  "reporter": "Eve Carter",
+  "description": "Routine task execution based on latest sprint planning.",
+  "story_points": 13,
+  "labels": [
+    "routine",
+    "sprint"
+  ],
+  "created_at": "2026-06-18T05:02:34Z",
+  "comments": []
+}

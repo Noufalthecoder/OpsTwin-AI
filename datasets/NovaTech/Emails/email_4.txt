@@ -1,0 +1,13 @@
+From: Grace Lee <grace.l@novatech.com>
+To: Henry Ford <henry.f@novatech.com>
+Date: 2026-06-21T05:34:34Z
+Subject: URGENT: Database Outage during Peak Hours - NOV-1088
+
+Hi Henry,
+
+We are facing issues with Database Outage during Peak Hours. 
+I've tracked this in Jira under NOV-1088. 
+We also discussed this in Slack recently. Please review the SOPs if needed.
+
+Thanks,
+Grace Lee
