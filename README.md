@@ -94,42 +94,7 @@ No platform exists that gives a unified, real-time, AI-driven map of an organiza
 
 ---
 
-## 🖼️ Screenshots
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/dashboard.png" width="100%" alt="Executive Dashboard" />
-      <br /><i>Executive Dashboard</i>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/twin.png" width="100%" alt="Digital Twin" />
-      <br /><i>Interactive Digital Twin</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/workflow.png" width="100%" alt="Workflow Discovery" />
-      <br /><i>Workflow Discovery</i>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/knowledge_graph.png" width="100%" alt="Knowledge Graph" />
-      <br /><i>Knowledge Graph</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/bottleneck.png" width="100%" alt="Bottleneck Detection" />
-      <br /><i>Bottleneck Detection</i>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Noufalthecoder/OpsTwin-AI/main/public/screenshots/copilot.png" width="100%" alt="Workflow Copilot" />
-      <br /><i>Workflow Copilot</i>
-    </td>
-  </tr>
-</table>
-
----
 
 ## ✨ Features
 
