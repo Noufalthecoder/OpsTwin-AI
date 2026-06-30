@@ -224,24 +224,35 @@ graph TD
 Built on a robust, scalable, enterprise-grade technology stack designed for high throughput and security.
 
 ```mermaid
-architecture-beta
-    group frontend(cloud)[Frontend Application]
-    group backend(server)[Backend Services]
-    group data(database)[Data Layer]
-    group ai(cloud)[AI & Inference]
+flowchart TD
+    classDef frontend fill:#3b82f6,stroke:#1e40af,stroke-width:2px,color:#fff,rx:5px
+    classDef backend fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff,rx:5px
+    classDef data fill:#8b5cf6,stroke:#6d28d9,stroke-width:2px,color:#fff,rx:5px
+    classDef ai fill:#f59e0b,stroke:#b45309,stroke-width:2px,color:#fff,rx:5px
 
-    service app(internet)[Next.js React SPA] in frontend
-    service api(server)[FastAPI Gateway] in backend
-    service lemma(server)[Lemma Orchestrator] in backend
-    service pg(database)[PostgreSQL] in data
-    service neo(database)[Knowledge Graph] in data
-    service gemini(server)[Google Gemini Pro] in ai
+    subgraph Frontend[Frontend Application]
+        App[Next.js React SPA]:::frontend
+    end
 
-    app:R --> L:api
-    api:R --> L:lemma
-    lemma:B --> T:pg
-    lemma:B --> T:neo
-    lemma:R --> L:gemini
+    subgraph Backend[Backend Services]
+        API[FastAPI Gateway]:::backend
+        Lemma[Lemma Orchestrator]:::backend
+    end
+
+    subgraph Data[Data Layer]
+        PG[(PostgreSQL)]:::data
+        Neo[(Knowledge Graph)]:::data
+    end
+
+    subgraph AI[AI & Inference]
+        Gemini[Google Gemini Pro]:::ai
+    end
+
+    App --> API
+    API --> Lemma
+    Lemma --> PG
+    Lemma --> Neo
+    Lemma <--> Gemini
 ```
 
 ---
