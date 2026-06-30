@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-  <img src="public/logo.png" alt="OpsTwin AI Logo" width="120" />
-  <br />
   
   <h1>OpsTwin AI</h1>
   
